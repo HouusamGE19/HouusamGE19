@@ -2,7 +2,7 @@
 
 **Java Full-Stack Developer · DevOps & Cloud · AI-Assisted Software Engineering**
 
-I build reliable software systems across backend, frontend, and delivery infrastructure, with a primary focus on **Java, Spring Boot, Angular, PostgreSQL, and Kafka**.
+I build reliable software systems across backend, frontend, and delivery infrastructure, with a primary focus on **Java, Spring Boot, Angular, PostgreSQL, SAP Commerce and Kafka**.
 
 My recent work explores distributed systems, event-driven architecture, database performance, CI/CD and GitOps, observability, containerized deployment, and disciplined AI-assisted software engineering.
 
