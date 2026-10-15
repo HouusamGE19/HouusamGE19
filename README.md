@@ -1,64 +1,65 @@
+<div align="center">
+
 # Houssam Elmouqaddam
 
-**Java Full-Stack Developer · DevOps & Cloud · AI-Assisted Software Engineering**
+### Java Full-Stack Developer · DevOps & Cloud · AI-Assisted Software Engineering
 
-I build reliable software systems across backend, frontend, and delivery infrastructure, with a primary focus on **Java, Spring Boot, Angular, PostgreSQL, SAP Commerce and Kafka**.
+I build reliable software systems across **backend, frontend, data, and delivery infrastructure**, with a primary focus on **Java, Spring Boot, Angular, PostgreSQL, Kafka, and SAP Commerce**.
 
-My recent work explores distributed systems, event-driven architecture, database performance, CI/CD and GitOps, observability, containerized deployment, and disciplined AI-assisted software engineering.
+[![Portfolio](https://img.shields.io/badge/Portfolio-houusamge19.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://houusamge19.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Houssam%20Elmouqaddam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-elmouqaddam-05b0a1377/)
+[![Email](https://img.shields.io/badge/Email-houssamed100%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:houssamed100@gmail.com)
+
+</div>
+
+---
+
+## What I Work On
+
+- **Java full-stack systems** with Spring Boot, Angular, PostgreSQL, Redis, and Kafka
+- **Event-driven and distributed architectures** using Saga-style workflows, transactional outbox, idempotent consumers, and real-time communication
+- **Database performance** through query-plan analysis, indexing strategies, caching, and telemetry
+- **DevOps & cloud delivery** with GitHub Actions, Docker, Kubernetes/k3s, Argo CD, Trivy, Prometheus, Grafana, and AWS
+- **AI-assisted software engineering** using coding agents for investigation, implementation, debugging, verification, and cross-stack exploration
 
 ## Selected Projects
 
-### FlowCart
-Event-driven e-commerce platform built with Java 21, Spring Boot, Kafka, PostgreSQL, and Angular, with Saga-style compensation, transactional outbox, idempotent consumers, and SSE order tracking.
-
-[View repository](https://github.com/HouusamGE19/Flowcart)
-
-### DB-Lab
-PostgreSQL performance playground for `EXPLAIN ANALYZE`, indexing strategies, query plans, Redis caching, and database telemetry.
-
-[View repository](https://github.com/HouusamGE19/DB-Lab)
-
-### CI/CD Showcase
-End-to-end DevOps project with GitHub Actions, Docker, GHCR, Trivy, Kubernetes/k3s, Argo CD, Prometheus, Grafana, and AWS.
-
-[View repository](https://github.com/HouusamGE19/CI-CD-Showcase)
-
-### Download Studio
-Full-stack local download manager built with Spring Boot and Angular, featuring SSE live progress, yt-dlp/FFmpeg orchestration, queue management, and Docker packaging.
-
-[View repository](https://github.com/HouusamGE19/Download-studio)
-
-### HED Space Desktop
-AI-assisted cross-stack desktop application built while exploring Tauri, Rust, SQLite, and mpv outside my primary Java stack.
-
-[View repository](https://github.com/HouusamGE19/HED-Space-Desktop)
-
-### AI Engineering Playbook
-Practical workflows, prompt patterns, repository guidance, and case studies for disciplined AI-assisted software engineering with Codex and Hermes.
-
-[View repository](https://github.com/HouusamGE19/AI-Engineering-Playbook)
+| Project | What it demonstrates |
+| --- | --- |
+| **[FlowCart](https://github.com/HouusamGE19/Flowcart)** | Event-driven e-commerce with Java 21, Spring Boot, Kafka, PostgreSQL, Angular, Saga-style compensation, transactional outbox, idempotency, and SSE order tracking. |
+| **[DB-Lab](https://github.com/HouusamGE19/DB-Lab)** | PostgreSQL performance engineering with `EXPLAIN ANALYZE`, indexing strategies, Redis caching, query-plan inspection, and database telemetry. |
+| **[CI/CD Showcase](https://github.com/HouusamGE19/CI-CD-Showcase)** | End-to-end delivery pipeline with GitHub Actions, Docker, GHCR, Trivy, Kubernetes/k3s, Argo CD GitOps, Prometheus, Grafana, and AWS EC2. |
+| **[Download Studio](https://github.com/HouusamGE19/Download-studio)** | Spring Boot + Angular download manager with SSE live progress, queue management, yt-dlp/FFmpeg orchestration, and Docker packaging. |
+| **[HED Space Desktop](https://github.com/HouusamGE19/HED-Space-Desktop)** | AI-assisted cross-stack desktop engineering while exploring Tauri, Rust, SQLite, and mpv outside my primary Java stack. |
+| **[AI Engineering Playbook](https://github.com/HouusamGE19/AI-Engineering-Playbook)** | Practical workflows, prompt patterns, repository guidance, and case studies for disciplined AI-assisted engineering with Codex and Hermes. |
 
 ## Core Stack
 
-**Backend:** Java · Spring Boot · REST APIs · Microservices · Kafka  
-**Frontend:** Angular · TypeScript · HTML · CSS  
-**Data:** PostgreSQL · Redis · SQL · Database Performance  
-**DevOps & Cloud:** Docker · Kubernetes/k3s · GitHub Actions · GHCR · Argo CD · Trivy · AWS  
-**Observability:** Prometheus · Grafana  
-**Engineering:** Event-Driven Architecture · GitOps · CI/CD · AI-Assisted Development
+**Backend**  
+`Java` · `Spring Boot` · `SAP Commerce` · `REST APIs` · `Microservices` · `Kafka`
 
-## Current Focus
+**Frontend**  
+`Angular` · `TypeScript` · `HTML` · `CSS`
 
-- Building production-style Java full-stack systems
-- Event-driven and distributed application design
-- Database performance and reliability
-- CI/CD, GitOps, containers, and cloud deployment
-- Using AI coding agents effectively for investigation, implementation, debugging, and verification
+**Data**  
+`PostgreSQL` · `Redis` · `SQL` · `Database Performance`
 
-## Connect
+**DevOps & Cloud**  
+`GitHub Actions` · `Docker` · `GHCR` · `Kubernetes / k3s` · `Argo CD` · `Trivy` · `AWS`
 
-- **Portfolio:** https://houusamge19.github.io/
-- **LinkedIn:** https://www.linkedin.com/in/houssam-elmouqaddam-05b0a1377/
-- **Email:** houssamed100@gmail.com
+**Observability**  
+`Prometheus` · `Grafana`
 
-Open to software engineering opportunities and collaborative projects.
+## Engineering Focus
+
+`Distributed Systems` · `Event-Driven Architecture` · `Database Performance` · `CI/CD` · `GitOps` · `Observability` · `AI-Assisted Engineering`
+
+---
+
+<div align="center">
+
+**Open to software engineering opportunities and collaborative projects.**
+
+[Portfolio](https://houusamge19.github.io/) · [LinkedIn](https://www.linkedin.com/in/houssam-elmouqaddam-05b0a1377/) · [Email](mailto:houssamed100@gmail.com)
+
+</div>
