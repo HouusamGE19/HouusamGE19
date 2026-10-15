@@ -26,8 +26,8 @@ I build reliable software systems across **backend, frontend, data, and delivery
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[FlowCart](https://github.com/HouusamGE19/Flowcart)** | Event-driven **microservices** e-commerce platform built with Java 21, Spring Boot, Kafka, PostgreSQL, and Angular, using Saga-style compensation, transactional outbox, idempotent consumers, service discovery/API gateway, and SSE order tracking. || **[DB-Lab](https://github.com/HouusamGE19/DB-Lab)** | PostgreSQL performance engineering with `EXPLAIN ANALYZE`, indexing strategies, Redis caching, query-plan inspection, and database telemetry. 
-|
+| **[FlowCart](https://github.com/HouusamGE19/Flowcart)** | Event-driven **microservices** e-commerce platform built with Java 21, Spring Boot, Kafka, PostgreSQL, and Angular, using Saga-style compensation, transactional outbox, idempotent consumers, service discovery/API gateway, and SSE order tracking. |
+| **[DB-Lab](https://github.com/HouusamGE19/DB-Lab)** | PostgreSQL performance engineering with `EXPLAIN ANALYZE`, indexing strategies, Redis caching, query-plan inspection, and database telemetry. |
 | **[CI/CD Showcase](https://github.com/HouusamGE19/CI-CD-Showcase)** | End-to-end delivery pipeline with GitHub Actions, Docker, GHCR, Trivy, Kubernetes/k3s, Argo CD GitOps, Prometheus, Grafana, and AWS EC2. |
 | **[Download Studio](https://github.com/HouusamGE19/Download-studio)** | Spring Boot + Angular download manager with SSE live progress, queue management, yt-dlp/FFmpeg orchestration, and Docker packaging. |
 | **[HED Space Desktop](https://github.com/HouusamGE19/HED-Space-Desktop)** | AI-assisted cross-stack desktop engineering while exploring Tauri, Rust, SQLite, and mpv outside my primary Java stack. |
